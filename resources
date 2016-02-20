@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resources</title>
+	<meta charset="utf-8" />
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+	
+	<style type="text/css">
+			h1 {
+			color: mediumvioletred;
+			}
+			p {
+			color: purple;
+			width: 75%;
+			}
+			nav>ul {
+			list-style-type: square;
+			}
+			ul {
+			list-style-type: circle;
+			}
+	</style>
+</head>
+
+<body>
+ <div>
+  <nav>
+			<ul>
+				<li><a href="index.html">Home </a></li>
+				<li><a href="about.html">About OC </a></li>
+				<li><a href="resources.html">Coding Resources</a></li>
+			</ul>
+	</nav>
+	
+	<hr />
+	<h1>Learn to Code Resources</h1>
+	<hr />
+	<p>The list below includes resources that I have personally used and found helpful: </p>
+		<ul>
+			<li><a href="https://www.udemy.com/complete-web-developer-course/learn/">Udemy Web Developer</a></li>
+			<li><a href="https://www.codecademy.com/patricia_grace">Code Academy</a></li>
+			<li><a href="http://www.freecodecamp.com/patricia-grace">Free Code Camp</a></li>
+			<li>COP1000 Intro to Computer Programming with Prof. Barber (at <a href="http://www.fscj.edu/">FSCJ</a>)</li>
+			<li>COP2822 Web Technologies with Prof. Rhodes (also at <a href="http://www.fscj.edu/">FSCJ</a>)</li>
+			<li><a href="https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about">Computer Science MOOC from Stanford</a></li>
+		</ul>
+	
+</div>
+</body>
+</html>
