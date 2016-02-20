@@ -5,44 +5,28 @@
 	<meta charset="utf-8" />
   <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link href="static.css" type="text/css" rel="stylesheet" />
 	
-	<style type="text/css">
-			body {
-			text-align: center;
-			}
-			ul {
-			list-style-type: none;
-			}
-			header {
-			text-align: center;
-			}
-			h1 {
-			color: mediumvioletred;
-			width: 100%;
-			}
-			h4 {
-			color: purple;
-			width: 100%;
-			}
-	</style>
 </head>
 
 <body>
  <div>
-  <nav>
+	<header>
+  	<nav>
 			<ul>
-				<li><a href="index.html">Home </a></li>
-				<li><a href="about.html">About OC </a></li>
+				<li><a href="index.html">Home ~</a></li>
+				<li><a href="about.html">About OC ~</a></li>
 				<li><a href="resources.html">Coding Resources</a></li>
 			</ul>
 		</nav>
-		
+	</header>	
 	<hr />
-	<header>
-	<h1>Ordered Confusion</h1>
-	<h4>Where I attempt to build a portfolio of my Web Development endeavors</h4>
-	</header>
+		<h1>Ordered Confusion</h1>
+	  <h3>Where I attempt to build a portfolio of my Web Development endeavors.</h3>
+	
+	
 	<hr />
+	
 	<p><img src="code.jpg" alt="coding tools and languages"></p>
 	
 </div>
